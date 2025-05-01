@@ -1,6 +1,6 @@
 🐍 Python Mini Projects
 
-This repository contains a collection of beginner-friendly Python mini projects that I built while learning Python. Each project demonstrates the use of different modules, concepts, and GUI/audio integrations. Great for beginners looking to understand how Python can be used to create real-world applications.
+This repository contains a collection of Python mini projects that I built while learning Python. Each project demonstrates the use of different modules, concepts, and GUI/audio integrations. Great for learners looking to understand how Python can be used to create real-world applications.
 
 📦 Projects Included:
 Jarvis Audio Assistant – A voice-based assistant that can perform tasks like searching the web, answering questions, telling the time, and more using speech recognition and text-to-speech.
