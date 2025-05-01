@@ -13,4 +13,4 @@ Digital Clock – A real-time digital clock application displaying the current t
 
 Weather App – A basic weather application that fetches current weather data for a given city using an API.
 
-![Weather App Demo](C:\Users\Shriraj\OneDrive\Pictures\Screenshots\Screenshot 2025-05-01 231812.png)
+LinkedIn post for reference: https://www.linkedin.com/feed/update/urn:li:activity:7323766465214459904?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7323766465214459904%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BdeDfkE8kRumLxu%2FI%2FiPrcQ%3D%3D
